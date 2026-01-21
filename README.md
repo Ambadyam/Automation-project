@@ -1,4 +1,5 @@
 #Project Goal
+
 The goal of this project is to automate functional and UI testing of a web application to
 1.Improve test coverage
 2.Reduce manual testing effort
